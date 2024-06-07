@@ -6,6 +6,8 @@ body{
   text-align: center;
   vertical-align: super;
   font-family: 'serif', Georgia;*/
+  background-color: ;
+  color: ;
   padding: 10px;
   margin: 15px;
   border: 4px solid;
@@ -17,7 +19,7 @@ body{
   font-style: oblique;
 }
 h1, h2, h3, h4, h5, h6{
-  
+  font-size: 1.2em;
 }
 .top{
   
@@ -40,7 +42,7 @@ li {
 }
 li a, dropBtn {
   display: inline-block;
-  color: pink;
+  color: #FFAC19;
   text-align: center;
   padding: 10px 12px;
   text-decoration: none;
